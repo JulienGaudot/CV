@@ -132,7 +132,10 @@ h1 {
     transform:scale(1.3);
     transition: all 1s;
 }
-
+.imghover
+{
+    transition: all 1s;
+}
 .align-deux
 {
     display: flex;
@@ -228,7 +231,6 @@ a
 .textcentre
 {
     width: 90%;
-    margin-top: ;
 }
 
 .photomoi
